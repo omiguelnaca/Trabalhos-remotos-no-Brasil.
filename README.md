@@ -27,6 +27,7 @@ Amparo Saúde | https://www.amparosaude.com.br/
 Ampla Visão | http://www.amplavisao.com/
 Arctouch | https://arctouch.com/
 ATTA | https://atta.gupy.io/
+Auto Force | https://site.autoforce.com/
 Beblue | http://beblue.com.br/
 BEON Tech | http://beon.studio/careers
 Beyond Soluções | https://imaginebeyond.com.br/
@@ -65,6 +66,7 @@ DB1 | https://carreira.db1.com.br/
 Dextra Mutant | https://apply.workable.com/dextra/
 Digesto | https://www.digesto.com.br/servicos
 Dock | https://dock.gupy.io/
+Doc9 | https://www.doc9.com.br/
 Dolux | http://www.dolux.com.br
 Dot Digital Group | https://dotgroup.com.br/
 Easytown | https://www.linkedin.com/company/easytown
@@ -86,12 +88,14 @@ Geobit | https://www.linkedin.com/company/geobit-consultoria-e-tecnologia-gis/
 Getty/IO | https://www.getty.io
 Gerencianet | https://jobs.kenoby.com/gerencianet/
 GFT | https://www.gft.com/br/
+Globalweb | https://www.globalweb.com.br/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 Hash | https://www.hash.com.br/
 Hi Platform | https://hiplatform.gupy.io/
 Hurb | https://www.linkedin.com/company/hurb/
 iBLISS | http://www.ibliss.com.br/
+iBlue Consulting | https://iblueconsulting.com.br/
 Icaro Tech | https://icarotech.gupy.io
 iClinic | https://vagas.iclinic.com.br/
 Ignus Digital (HE:labs) | https://www.linkedin.com/company/ignus-digital/
@@ -99,6 +103,7 @@ Impulso (HE:labs) | https://impulso.network/
 Inova e-Business | https://www.inovaebiz.com.br/
 InCuca | http://incuca.net
 Instruct | http://instruct.com.br/jobs
+Instituto Atlântico | https://www.atlantico.com.br
 Invillia | https://invillia.com/
 Iteris | https://www.iteris.com.br/pt-br/carreiras
 Ioasys | https://ioasys.gupy.io/
@@ -114,6 +119,7 @@ Letras | https://letras.gupy.io/
 Levpay | https://levpay.com/
 Levante Lab | https://levantelab.com.br/
 LocalizaLabs | https://portalcarreira.localiza.com/vagas/tecnologia-localizalabs?areaId=4d8df57a-fb4d-46dc-b1e2-d469a39b9fe3
+Locaweb | https://lwsa.gupy.io/
 Loft | https://jobs.lever.co/loft
 Luizalabs | http://luizalabs.com
 Lyseon Tech | http://lt.coop.br/
@@ -128,6 +134,7 @@ Monde | http://www.monde.com.br/
 Movidesk | https://www.movidesk.com/
 Nagro | https://nagro.com.br
 Nasajon | https://nasajon.com.br/
+Nava | https://www.nava.com.br/pt/
 Navi Capital | https://www.navi.com.br/
 Nexaas | http://www.nexaas.com
 Nossas Cidades | http://www.nossascidades.org/
@@ -148,6 +155,7 @@ Pismo | http://pismo.io/
 PLING | https://www.linkedin.com/company/pling---plataforma-integrada-de-gestão/
 Pontal Sistemas | https://www.pontalsistemas.com.br/
 Portabilis | https://portabilis.com.br/oportunidades/
+Pontotel | https://www.pontotel.com.br/
 Prime Systems | http://www.primesystems.com.br/
 Raise | http://www.raisesistemas.com.br/
 Raízen | https://genteraizen.gupy.io/
@@ -155,10 +163,12 @@ Raro Labs | https://rarolabs.com.br/
 R2U | https://r2u.io/
 ReclameAQUI | https://www.reclameaqui.com.br/
 Repassa | https://www.repassa.com.br/
+Relevo Lab | https://www.relevolab.com/
 Resultados Digitais | https://resultadosdigitais.com.br/
 Riachuelo | https://www.riachuelo.com.br/
 Ribon | https://www.ribon.io/
 Rock Content | https://rockcontent.com/careers/
+Safra | https://www.safra.com.br/
 Sambatech | https://sambatech.kula.jobs/
 Simbiose | https://www.simbioseventures.com
 Sílex Sistemas | http://www.silexsistemas.com.br/
